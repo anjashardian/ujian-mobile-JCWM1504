@@ -1,5 +1,5 @@
 {
-  "name": "ujianmobileJCWM1504",
+  "name": "ujianmobilejcwm1504",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,31 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.14.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.8",
+    "@react-navigation/drawer": "^5.12.4",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
+    "axios": "^0.21.1",
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "react-native-elements": "^3.2.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-modal": "^11.7.0",
+    "react-native-modals": "^0.22.3",
+    "react-native-paper": "^4.7.2",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screen": "^1.0.1",
+    "react-native-screens": "^2.18.0",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "7.13.8",
@@ -25,5 +48,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "![purwadhika](https://dm2302files.storage.live.com/y4mXzhUZVMNL_p9tVgW1HqlEUJa6ppyVCfKnxxFC4x5nfuSs_-NnMTSOFdPq6MIGrxKEZW8uGWVreQ9awWZboO6NydIZpac87UZ48QL0Y40HZv-uJOAAqVADo9m_ZBZ5ThfKAaFnCabsFufrOnkmjwdWVsaFcPVmaha7sQOlW0jmQwbbEGmbVih8UC2ouXKKdRs?width=256&height=39&cropmode=none)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjashardian/ujian-mobile-JCWM1504.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjashardian/ujian-mobile-JCWM1504/issues"
+  },
+  "homepage": "https://github.com/anjashardian/ujian-mobile-JCWM1504#readme"
 }
